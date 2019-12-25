@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">KiloAlan</string>
+    <string name="title_activity_hafiza_oyunu">HafizaOyunu</string>
+    <string name="weight">Kilo</string>
+    <string name="height">Boy</string>
+    <string name="calculateBMI">Hesapla</string>
+
+    <string name="very_severely_underweihgt">Aşırı Zayıf</string>
+    <string name="severely_underweight"> Çok Zayıf</string>
+    <string name="underweight">Zayıf</string>
+    <string name="normal">Normal</string>
+    <string name="overweight">Kilolu</string>
+    <string name="obese_class_one">Obezite Seviye 1 </string>
+    <string name="obese_class_two">Obizite Seviye 2</string>
+    <string name="obese_class_three">Obizite Seviye 3</string>
+
+</resources>
